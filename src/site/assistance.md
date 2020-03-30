@@ -8,6 +8,8 @@ layout: layouts/base.njk
 
 To Volunteer please fill out the form [here](/volunteer)
 
+https://docs.google.com/forms/d/1EL0IoJpuTpRMe3deifc8vL6g3iL17zEhc4nTupzAu2k/edit
+
 <section id="assistance">
   <div class="form-card">
     <form name="assistance" method="POST" data-netlify="true">
